@@ -10,7 +10,7 @@ In order to explore this desktop-app you might have to firstly *clone* or *downl
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kalebu/Python-CameraApp
+$ git clone https://github.com/10pc/camera.py
 
 ```
 
@@ -26,12 +26,14 @@ For Linux :
 $ pip3 install pillow
 $ pip3 install python-tk
 $ pip3 install opencv-python
+$ pip3 install kivy
 ```
 
 For Window : 
 ```bash 
 $ pip install pillow
 $ pip install opencv-python
+$ pip install kivy
 ```
 
 Once everything is cleary installed , you're now ready to run the application  
@@ -43,7 +45,7 @@ Running Our App
 Go into the repository
 
 ```bash
-$ cd Python-CameraApp
+$ cd camera.py
 ```
 
 Now Let's use terminal run our Simple Camera App as shown below  
@@ -66,5 +68,6 @@ Did you find this information useful, then give it a star
 
 Credits
 -----------
-All the credits to [kalebu](github.com/kalebu) and [Alfaxad](https://github.com/Alfaxad)
+[kalebu](github.com/kalebu) and [Alfaxad](https://github.com/Alfaxad): original repository
+[me](github.com/10pc)
 
